@@ -1,5 +1,5 @@
 {
-  "name": "newtown/typo3-logging-62",
+  "name": "georgringer/logging",
   "description": "Logging for TYPO3 CMS",
   "type": "typo3-cms-extension",
   "keywords": [
